@@ -1,0 +1,14 @@
+					<<--- I N S T I T U T O   Y E S H --->>
+					     ----------------------------
+				<< REPORTE DE CALIFICACIONES ORDENAMIENTO >>
+
+Calificaciones Ordenadas
+ALGORITMO: Burbuja/Selección/Inserción/MergeSort/QuickSort
+Algoritmo seleccionado: MergeSort
+
+Promedios Ordenados: 16.5	19.5	
+
+			------------------------------
+				Docente 
+			 Juan Paez
+				 1546948761

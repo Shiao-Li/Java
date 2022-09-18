@@ -1,0 +1,17 @@
+					<<--- I N S T I T U T O   Y E S H --->>
+					     ----------------------------
+				<< REPORTE DE CALIFICACIONES ORDENAMIENTO >>
+
+Búsqueda de Calificaciones
+Búsqueda de calificaciones: Lineal/Binaria/Interpolación
+Algoritmo seleccionado: Binaria
+La calificación a buscar fue de: 13.0
+
+Corresponde al/los estudiante/s: 
+No encontrado 	
+
+
+			------------------------------
+				Docente 
+			 Juan Paez
+				 1546948761
